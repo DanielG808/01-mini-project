@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    border: 1px solid red;
+}
+
+img {
+    height: 115px;
+    width: 200px;
+}
+
+header, main, footer {
+    border: 16px
+}
+
+header {
+    background-color: solid darkolivegreen;
+    height: 75px;
+}
